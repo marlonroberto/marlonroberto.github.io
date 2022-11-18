@@ -1,2 +1,7 @@
 pizza
 lasanha
+brocolis
+pera
+camarao
+chocolate
+batata
